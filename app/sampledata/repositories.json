@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "id": 317674982,
+      "name": "Alrais Flix",
+      "owner": {
+        "login": "diegoalrais",
+        "avatar_url": "https://avatars.githubusercontent.com/u/59895688?v=4"
+      },
+      "stargazers_count": 0,
+      "language": "HTML",
+      "html_url": "https://github.com/diegoalrais/alraisflix",
+      "description": "Uma outra cópia da interface da Netiflix. "
+    },
+    {
+      "id": 409231488,
+      "name": "Banco MR",
+      "owner": {
+        "login": "diegoalrais",
+        "avatar_url": "https://avatars.githubusercontent.com/u/59895688?v=4"
+      },
+      "stargazers_count": 0,
+      "language": "Kotlin",
+      "html_url": "https://github.com/diegoalrais/bancoMR",
+      "description": "Atividade do curso Desenvolvimento Android com Kotlin"
+    },
+    {
+      "id": 406933994,
+      "name": "Business Card",
+      "owner": {
+        "login": "diegoalrais",
+        "avatar_url": "https://avatars.githubusercontent.com/u/59895688?v=4"
+      },
+      "stargazers_count": 0,
+      "language": "Kotlin",
+      "html_url": "https://github.com/diegoalrais/businessCard",
+      "description": "BootCamp Inter Developer Android / Digital Innovation One"
+    },
+    {
+      "id": 313693014,
+      "name": "Calculadora",
+      "owner": {
+        "login": "diegoalrais",
+        "avatar_url": "https://avatars.githubusercontent.com/u/59895688?v=4"
+      },
+      "stargazers_count": 0,
+      "language": "Java",
+      "html_url": "https://github.com/diegoalrais/Calculadora",
+      "description": "Trabalho da faculdade na disciplina Programação Avançada."
+    },
+    {
+      "id": 401839026,
+      "name": "Calculadora De IMC",
+      "owner": {
+        "login": "diegoalrais",
+        "avatar_url": "https://avatars.githubusercontent.com/u/59895688?v=4"
+      },
+      "stargazers_count": 0,
+      "language": "Kotlin",
+      "html_url": "https://github.com/diegoalrais/calculadoraDeIMC",
+      "description": "Atividade do curso Desenvolvimento Android com Kotlin"
+    },
+    {
+      "id": 398100699,
+      "name": "Calculadora De Notas",
+      "owner": {
+        "login": "diegoalrais",
+        "avatar_url": "https://avatars.githubusercontent.com/u/59895688?v=4"
+      },
+      "stargazers_count": 0,
+      "language": "Kotlin",
+      "html_url": "https://github.com/diegoalrais/calculadoraDeNotas",
+      "description": "Atividade do curso Desenvolvimento Android com Kotlin"
+    },
+    {
+      "id": 397398825,
+      "name": "Cronômetro",
+      "owner": {
+        "login": "diegoalrais",
+        "avatar_url": "https://avatars.githubusercontent.com/u/59895688?v=4"
+      },
+      "stargazers_count": 0,
+      "language": "Kotlin",
+      "html_url": "https://github.com/diegoalrais/cronometro",
+      "description": "Tarefa do Curso Desenvolvimento Android com Kotlin"
+    },
+    {
+      "id": 306007368,
+      "name": "IMC",
+      "owner": {
+        "login": "diegoalrais",
+        "avatar_url": "https://avatars.githubusercontent.com/u/59895688?v=4"
+      },
+      "stargazers_count": 0,
+      "language": "HTML",
+      "html_url": "https://github.com/diegoalrais/imc",
+      "description": "Trabalho da Faculdade na disciplina Front End."
+    },
+    {
+      "id": 373663760,
+      "name": "Santander Dev Week",
+      "owner": {
+        "login": "diegoalrais",
+        "avatar_url": "https://avatars.githubusercontent.com/u/59895688?v=4"
+      },
+      "stargazers_count": 0,
+      "language": "Kotlin",
+      "html_url": "https://github.com/diegoalrais/SantanderDevWeek",
+      "description": "Santander Dev Week - Kotlin"
+    },
+    {
+      "id": 313737730,
+      "name": "Vingadores",
+      "owner": {
+        "login": "diegoalrais",
+        "avatar_url": "https://avatars.githubusercontent.com/u/59895688?v=4"
+      },
+      "stargazers_count": 0,
+      "language": "Java",
+      "html_url": "https://github.com/diegoalrais/vingadores",
+      "description": "Trabalho da faculdade na disciplina Programação Avançada."
+    }
+  ]
+}
